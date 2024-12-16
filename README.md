@@ -1,7 +1,7 @@
 <p>
   <h1 align="center">
 
-    👋 Hi My name is Jet.👋
+    🔔 Hi, My name is Punzh!🩷
   </h1>
 </p>
 <h2>
@@ -21,7 +21,7 @@
     <b>
   </h3>
     <img hight="400" width="500" alt="GIF" align="right" src="icon+img/Darksoul.gif" width="50%"/>
-    <i>&nbsp&nbsp• BanBung Uttasahakamnukhro school [Sci-Math]
+    <i>&nbsp&nbsp• Sarasas Pittaya school [Sci-Math]
     &nbsp<img src="icon+img\school_icon.png"><br>
     &nbsp&nbsp• Srinakharinwirot University [Com-Sci]
     &nbsp<img src="icon+img\swu_icon.png"><br></i>
